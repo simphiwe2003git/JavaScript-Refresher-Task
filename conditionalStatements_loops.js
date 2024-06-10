@@ -202,10 +202,10 @@ console.log("The sum is " + sum2);
 
 
 //Number3
-/*let number7;
+let number7;
 do {
     number7 = prompt("Enter a number greater than 10");
-} while (isNaN(number7) || number7 <= 10 )*/
+} while (isNaN(number7) || number7 <= 10 )
 
 
 //Number4
